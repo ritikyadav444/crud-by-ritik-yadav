@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "name": "Amey Pandit",
+      "username": "amey69",
+      "email": "ameypandit-inft@atharvacoe.ac.in",
+      "phone": "9702153712",
+      "id": 1
+    },
+    {
+      "name": "Ria Kokate",
+      "username": "ria88",
+      "email": "riakokate-inft@taharvacoe.ac.in",
+      "phone": "9833202525",
+      "id": 2
+    },
+    {
+      "name": "AARNAV SANGEKAR",
+      "username": "aarnav88",
+      "email": "aarnuatank@gmail.com",
+      "phone": "9136833103",
+      "id": 4
+    },
+    {
+      "name": "Bhagyadeep P",
+      "username": "bidi69",
+      "email": "bhagyadeepdhi@gmail.com",
+      "phone": "9819994704",
+      "id": 5
+    },
+    {
+      "name": "Ritik Yadav",
+      "username": "ritik_yadav0405",
+      "email": "ritikyadav6397@gmail.com",
+      "phone": "8291563516",
+      "id": 6
+    },
+    {
+      "name": "Hitanshu Oza",
+      "username": "hitanshu88",
+      "email": "hitanshuoza-inft@atharvacoe.ac.in",
+      "phone": "8282828282",
+      "id": 7
+    }
+  ]
+}
